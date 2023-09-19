@@ -6,6 +6,16 @@
 
 body {
   margin: 0;
-  background-color: lightgray;
+  background-color: rgb(135, 197, 153);
   font-family: sans-serif;
 }
+
+.top-space {
+  margin-top: 50px;
+}
+h1 {text-align: center;}
+
+.h4-marginleft{ margin-left: 10%;}
+
+
+.Untertiteltext-marginleft{margin-left: 10%;}
