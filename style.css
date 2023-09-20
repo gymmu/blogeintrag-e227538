@@ -10,3 +10,13 @@ body {
   font-family: sans-serif;
 }
 
+li a {
+display: block;
+color:rgba(19, 75, 53, 0.877);
+padding: 10%;
+text-decoration: double;
+}
+
+li a:hover {
+  color: brown;
+}
