@@ -13,10 +13,27 @@ body {
 li a {
 display: block;
 color:rgba(19, 75, 53, 0.877);
-padding: 10%;
+padding: 0%;
 text-decoration: double;
 }
 
 li a:hover {
   color: brown;
+}
+
+p {
+padding-left: 2%;
+}
+
+h1 {
+padding-left: 2%;
+}
+
+h2 {
+padding-left: 2%;
+}
+
+img {
+width: 30%;
+height:auto;
 }
