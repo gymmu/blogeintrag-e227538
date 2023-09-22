@@ -41,3 +41,12 @@ height:auto;
 .scale {
 animation: scale-anim 1s both ease-in-out indefinite alternate;
 }
+
+.spread {
+transition: letter-spacing 1s ease-in-out;
+}
+
+.spread:hover {
+letter-spacing: 1rem;
+}
+  
