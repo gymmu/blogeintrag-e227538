@@ -37,3 +37,7 @@ img {
 width: 30%;
 height:auto;
 }
+
+.scale {
+animation: scale-anim 1s both ease-in-out indefinite alternate;
+}
