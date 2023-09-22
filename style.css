@@ -36,6 +36,9 @@ padding-left: 2%;
 img {
 width: 30%;
 height:auto;
+padding-left: 10px;
+border-radius: 10%;
+
 }
 
 .scale {
@@ -48,5 +51,13 @@ transition: letter-spacing 1s ease-in-out;
 
 .spread:hover {
 letter-spacing: 1rem;
+}
+
+.box {
+  border: 1px solid rgba(91, 159, 17, 0);
+  margin: 5px;
+  padding: 4px;
+  width: 80%;
+  height: auto;
 }
   
